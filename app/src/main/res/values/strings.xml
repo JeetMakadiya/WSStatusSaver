@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WSStatusSaver</string>
+    <string name="tab_text_1">Images</string>
+    <string name="tab_text_2">Videos</string>
+    <string name="send_to">Share Image to...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
