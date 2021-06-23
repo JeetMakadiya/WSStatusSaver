@@ -135,7 +135,7 @@ public class Videos extends Fragment {
     }
 
     private void copyFile(File file, File destFile) throws IOException {
-        if (!destFile.getParentFile().exists()){
+        if (!destFile.getParentFile().exists()) {
             destFile.getParentFile().mkdirs();
         }
         if (!destFile.exists()){
